@@ -7,16 +7,16 @@ Forge Your Future with AI-Powered Roadmaps. Intelligent, Collaborative, and Resu
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Tech Stack](#tech-stack)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
 PathForge AI is a next-generation AI-powered platform designed to revolutionize how you plan and achieve your goals. Whether you're mapping a learning journey, planning career development, managing projects, or collaborating with teams, PathForge AI provides intelligent guidance, beautiful visualizations, and powerful collaboration tools.
+
+<img width="1915" height="898" alt="heroImage" src="https://github.com/user-attachments/assets/fde559bb-1880-47d3-a081-c60730ac48e9" />
+
 
 ## Features
 
